@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Sistema de Aerolinea - Examen Final/1.0.0": {
+        "runtime": {
+          "Sistema de Aerolinea - Examen Final.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sistema de Aerolinea - Examen Final/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
